@@ -30,6 +30,10 @@
                 <Button>btn44</Button>
             </ToolBar>
         </ToolBarTray>
+        <InkCanvas >
+            <Image Width="800" Source="/Icon-notepad.svg.png" />
+        </InkCanvas>
         
+
     </DockPanel>
 </Window>

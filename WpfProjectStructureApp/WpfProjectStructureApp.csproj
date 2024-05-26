@@ -8,4 +8,14 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Icon-notepad.svg.png" />
+    <None Remove="maxresdefault.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Icon-notepad.svg.png" />
+    <Resource Include="maxresdefault.jpg" />
+  </ItemGroup>
+
 </Project>
